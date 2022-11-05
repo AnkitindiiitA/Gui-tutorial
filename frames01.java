@@ -16,7 +16,7 @@ public class frames01 {
 
 
 
-        ImageIcon image=new ImageIcon("C:\\Users\\ANKIT SHARMA\\IdeaProjects\\helloworld\\src\\autobot.png");//create an image icon
+        ImageIcon image=new ImageIcon("autobot.png");//create an image icon
         frame.setIconImage(image.getImage());//change icon of frame
         //frame.getContentPane().setBackground(Color.GREEN);//change color of background
         frame.getContentPane().setBackground(new Color(123,50,250));
