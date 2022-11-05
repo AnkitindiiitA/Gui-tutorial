@@ -7,7 +7,7 @@ public class labels02 {
       //labels02
         //JLabel = a GUI display area for a string of text, an image, or both
 
-        ImageIcon image=new ImageIcon("C:\\Users\\ANKIT SHARMA\\IdeaProjects\\helloworld\\src\\autobot.png");
+        ImageIcon image=new ImageIcon("autobot.png");
         Border border=BorderFactory.createLineBorder(Color.GREEN,3);
 
         JLabel label=new JLabel();//create a label
